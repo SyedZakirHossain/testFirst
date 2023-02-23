@@ -22,6 +22,6 @@ urlpatterns = [
     path('search_view2', views.search_view2, name="search_view2"),
     path('search/search_view2', views.search_view2, name="search_view2"),
     path('cb2/<int:r>/', views.cb2, name="cb2"),
-    path('admin', views.admin, name="admin"),
+    path('admin/', views.admin, name="admin"),
     
 ]
