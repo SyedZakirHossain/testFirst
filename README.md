@@ -3,8 +3,8 @@
 This app is duild with Django.
 Deployed on render cloud services.
 Description:
-In the database there are three tables, one for allcitizen and their NID.
-Second table Citizen and their TIN.
+In the database there are three tables, one for all citizen and their NID.
+Second table citizen and their TIN.
 Third table contains citizen NID , bank name ,account no, balance.
 There is a search option on the search page.
 If we enter any NId and press search then it returns wheather the NID holder have a TIN or not.
