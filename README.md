@@ -1,6 +1,6 @@
 # testFirst
 
-This app is duild with Django.
+This app is build with Django.
 Deployed on render cloud services.
 Description:
 In the database there are three tables, one for all citizen and their NID.
