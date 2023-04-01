@@ -14,4 +14,4 @@ We can also find the Nid holders all bank accounts and balance.
 This is just an example. We can intigrate real life data with this application.
 Python can handle millions of data.
 
-Thanks to Render.com
+Thanks to onrender.com
